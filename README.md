@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Niggel2_0
 - 👀 I’m interested in Arduinos, Home Assistant, ...
 - 🌱 I’m currently learning Coding with Home Assistant
-- 📫 Discord: Niggel2_0
+- 📫 Discord: niggel2_0
